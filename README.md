@@ -1,5 +1,5 @@
 # Facial recognition and facial expression classification.
-acial recognition and emotion detection are two important aspects of computer
+Facial recognition and emotion detection are two important aspects of computer
 vision and data science. With the advancements in deep learning and artificial
 intelligence, the ability to automatically recognize faces and accurately infer emotions
 from facial expressions has become increasingly feasible and valuable. This report
